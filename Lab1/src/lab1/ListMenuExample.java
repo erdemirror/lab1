@@ -97,7 +97,7 @@ public class ListMenuExample {
                     System.out.println("Буруу сонголт.");
             }
         } while (choice != 0);
-//2:16
+//2:17
         scanner.close();
         
     }
