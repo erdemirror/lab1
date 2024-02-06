@@ -70,7 +70,7 @@ public class ListMenuExample {
 
             switch (choice) {
                 case 1:
-                    System.out.print("Нэмэх элементээ оруулна уу : ");
+                    System.out.print("Нэмэх элементээ оруулна уу  : ");
                     listExample.addElement(scanner.nextLine());
                     break;
                 case 2:
@@ -97,7 +97,8 @@ public class ListMenuExample {
                     System.out.println("Буруу сонголт.");
             }
         } while (choice != 0);
-
+//2:16
         scanner.close();
+        
     }
 }
